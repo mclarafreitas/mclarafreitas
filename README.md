@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 <!--
 **mclarafreitas/mclarafreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Maria Clara Freitas and there's somethings you should know about me:
+- Bachelor of Science and Technology - UFRN
+- Informatic for Internet Technician - UFRN
+- Computer Engineering Student - UFRN
+- I can speak in Portuguese (Native Speaker), English (Advanced) and French (Basic).
