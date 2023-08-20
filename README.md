@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Maria Clara Freitas and there's somethings you should know about me:
+My name is Maria Clara Freitas and there's some things you should know about me:
 - Bachelor of Science and Technology - UFRN
 - Informatic for Internet Technician - UFRN
 - Computer Engineering Student - UFRN
